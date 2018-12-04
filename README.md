@@ -1,4 +1,4 @@
-**Unfortunately, this repository has to be closed with just one MIDI file, as brand new *audio* renderings of the wonderful classics made by love will come out soon!**
+**Unfortunately, this repository has to be closed with just one MIDI file, as brand new *audio* renderings of the wonderful classics made by love will come out in the future!**
 
 # Gnusmas's Orchestral MIDIs
 
